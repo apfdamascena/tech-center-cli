@@ -63,11 +63,11 @@ During the citi selection process, we had to do a task several times. So, I deci
 
 <strong>In root folder </strong>
 ```sh
-    pip install --editable .
+    sudo pip install --editable .
 ```
 <strong> If does not work: </strong>
 ```sh
-    pip3 install --editable .
+    sudo pip3 install --editable .
 ```
 
 ## Contact
